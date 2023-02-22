@@ -4,4 +4,4 @@ Experimenting with remote machines.  Starting with [Ubuntu & GCP](https://ubuntu
 
 #### ssh into the machine
 
-(documentation)[https://cloud.google.com/compute/docs/connect/standard-ssh]
+[documentation](https://cloud.google.com/compute/docs/connect/standard-ssh)
