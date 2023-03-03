@@ -10,6 +10,9 @@ A remote [Ubuntu & GCP](https://ubuntu.com/blog/launch-ubuntu-desktop-on-google-
 
 [documentation](https://cloud.google.com/compute/docs/connect/standard-ssh)
 
+### Linux & AWS
+
+Found [three ways](https://aws.amazon.com/premiumsupport/knowledge-center/ec2-linux-2-install-gui/).
 
 #### MacOS & AWS
 
