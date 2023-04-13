@@ -1,5 +1,5 @@
 - create .pem
 - `ssh -i "<>.pem" <>@<>.amazonaws.com`
 - `sudo yum update` (amazon linux)
-- install docker: https://docs.docker.com/engine/install/centos/
-    - `sudo yum install -y yum-utils`
+- `sudo yum install -y docker`
+- `sudo service docker start`
