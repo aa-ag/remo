@@ -3,3 +3,6 @@
 - `sudo yum update` (amazon linux)
 - `sudo yum install -y docker`
 - `sudo service docker start`
+- `sudo usermod -a -G docker <>`
+- `sudo docker run -d -p 80:80 --name nginx nginx`
+- `sudo yum install @virt`
