@@ -1,2 +1,3 @@
 - create .pem
 - ssh -i "<>.pem" <>@<>.amazonaws.com
+- sudo yum update (amazon linux)
