@@ -1,0 +1,2 @@
+- create .pem
+- ssh -i "<>.pem" <>@<>.amazonaws.com
