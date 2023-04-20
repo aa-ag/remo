@@ -6,6 +6,10 @@ Experimenting with remote machines.
 
 A remote [Ubuntu & GCP](https://ubuntu.com/blog/launch-ubuntu-desktop-on-google-cloud) system.
 
+#### Ubuntu & AWS
+
+A remote [Ubuntu & AWS](https://ubuntu.com/tutorials/ubuntu-desktop-aws#2-setting-up-tightvnc-on-aws) system.
+
 ##### ssh into the machine
 
 [documentation](https://cloud.google.com/compute/docs/connect/standard-ssh)
